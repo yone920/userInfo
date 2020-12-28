@@ -1,0 +1,16 @@
+{
+    "userInfo": {
+        "hhsc_wc_roles":["HHSC_WC_DOITT_WCEDS","HHSC_WC_Access","HHSC_WC_ADDRESSSEARCH"],
+        "sub":"662afcdfe29e8342b058662afcdfe29e",
+        "workforce_id":["1637074"],
+        "website":["sasteiner@nycopportunity.nyc.gov"],
+        "mail":["sasteiner@nycopportunity.nyc.gov"],
+        "nickname":["sasteiner"],
+        "name":["Steiner, Samuel"],
+        "agency_short_name":"DOITT",
+        "claims":[],
+        "cn":["sasteiner"],
+        "given_name":["Samuel"],
+        "family_name":["Steiner"]
+    }
+}
